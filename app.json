@@ -1,13 +1,14 @@
 {
   "expo": {
+    "facebookScheme": "fb613033995993332",
+    "facebookAppId": "613033995993332",
+    "facebookDisplayName": "Travel Visit Tour -Development",
+    "facebookAutoInitEnabled": false,
     "name": "Argon FREE React Native",
     "slug": "argon-free-react-native",
     "privacy": "public",
     "sdkVersion": "37.0.0",
-    "platforms": [
-      "ios",
-      "android"
-    ],
+    "platforms": ["ios", "android"],
     "version": "1.5.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -19,12 +20,10 @@
     "updates": {
       "fallbackToCacheTimeout": 0
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true
     },
-    "description": "Argon React Native, based on Argon Design System. Coded by Creative Tim"
+    "description": "Travel Visit Tour"
   }
 }
